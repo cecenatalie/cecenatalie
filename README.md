@@ -1,8 +1,7 @@
 
 <div align="center">
-    
-[<img src="https://img.youtube.com/vi/vZ8wIAlLuG4/hqdefault.jpg" align="left" width="400" height="250"
-/>](https://www.youtube.com/embed/vZ8wIAlLuG4)
+
+[![GULCH](http://img.youtube.com/vi/vZ8wIAlLuG4/0.jpg)](http://www.youtube.com/watch?v=vZ8wIAlLuG4&align="left"width="100"height="250" "Gulch - 12/21/2019")
 
 <h6 align>   
 
